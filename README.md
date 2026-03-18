@@ -25,7 +25,7 @@ This project detects and counts coins in images using classical image processing
    -  Missed partial coins and detected false inner circles in some cases
 
 ✅ Conclusion
-The method works well for most images but is sensitive to lighting and texture variations.
+  The method works well for most images but is sensitive to lighting and texture variations.
 
 🧰 Tools
   - MATLAB (Image Processing Toolbox)
