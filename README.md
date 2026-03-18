@@ -3,6 +3,17 @@
 📌 Overview
 This project detects and counts coins in images using classical image processing techniques in MATLAB. It processes multiple images automatically and highlights detected coins.
 
+📁 Project Structure
+coins_detection/
+│
+├── 📂 input_images/        # Input images
+├── 📂 output_images/       # Images with detected coins (green circles)
+├──  screen_shot.png/         # Instructions screenshots related to the project
+│
+├── 🧾 coins_detection.m    # Main MATLAB script
+├── 📄 Report.pdf           # Project report
+└── 📘 README.md
+
 🎯 Objective
   - Detect and count coins
   - Highlight detected coins
