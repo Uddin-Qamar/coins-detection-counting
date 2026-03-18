@@ -16,30 +16,16 @@ This project detects and counts coins in images using classical image processing
   - Tune parameters (radius, sensitivity, threshold)
 
 ⚠️ Challenges
- -Overlapping coins
- -Lighting and shadows
- -Texture causing false detections
+   -  Overlapping coins
+   -  Lighting and shadows
+   -  Texture causing false detections
 
 🚧 Limitations
- -Some images (e.g., small size or complex scenes) were not detected accurately
- -Missed partial coins and detected false inner circles in some cases
+   -  Some images (e.g., small size or complex scenes) were not detected accurately
+   -  Missed partial coins and detected false inner circles in some cases
 
 ✅ Conclusion
-
 The method works well for most images but is sensitive to lighting and texture variations.
 
-🚀 Future Work
-
-Morphological operations
-
-Edge detection (Canny)
-
-Deep learning-based approaches
-
 🧰 Tools
-
-MATLAB (Image Processing Toolbox)
-
-👨‍💻 Author
-
-Qamar Uddin
+  - MATLAB (Image Processing Toolbox)
